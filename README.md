@@ -66,18 +66,18 @@ This system uses Termux, a terminal emulator for Android, to automate the synchr
 
 *If you want to use a widget*
 
-    6. Set up Termux:Widget:
-    ```
-    mkdir -p ~/.termux/tasker
-    cp keepass-sync.sh ~/.termux/tasker/
-    ```
+ 6. Set up Termux:Widget:
+ ```
+ mkdir -p ~/.termux/tasker
+ cp keepass-sync.sh ~/.termux/tasker/
+ ```
 
-    7. Add the Termux:Widget to your home screen and configure it to run the `keepass-sync.sh` script.
+ 7. Add the Termux:Widget to your home screen and configure it to run the `keepass-sync.sh` script.
 
 
 *If you want to use Automation app*
 
-    6. Add the script as running script in the app (you may need to make it as a parameter to /system/bin/sh program)
+ 6. Add the script as running script in the app (you may need to make it as a parameter to /system/bin/sh program)
 
 ## Usage
 
