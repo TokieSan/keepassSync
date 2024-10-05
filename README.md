@@ -76,6 +76,7 @@ This system uses Termux, a terminal emulator for Android, to automate the synchr
 
 
 *If you want to use Automation app*
+
     6. Add the script as running script in the app (you may need to make it as a parameter to /system/bin/sh program)
 
 ## Usage
